@@ -64,8 +64,10 @@
 - [Web-Scale K-Means Clustering (2010)](https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf)
 - [Online Dictionary Learning For Sparse Coding (2009)](https://www.di.ens.fr/sierra/pdfs/icml09.pdf)
 - [Density-Based Clustering over an Evolving Data Stream with Noise (2006)](https://archive.siam.org/meetings/sdm06/proceedings/030caof.pdf)
+- [Knowledge Acquisition Via Incremental Conceptual Clustering (2004)](http://www.inf.ufrgs.br/~engel/data/media/file/Aprendizagem/Cobweb.pdf)
 - [Online and Batch Learning of Pseudo-Metrics (2004)](https://ai.stanford.edu/~ang/papers/icml04-onlinemetric.pdf)
 - [BIRCH: an efficient data clustering method for very large databases (1996)](https://www2.cs.sfu.ca/CourseCentral/459/han/papers/zhang96.pdf)
+
 ### Anomaly detection
 
 - [Fast Anomaly Detection for Streaming Data (2011)](https://www.ijcai.org/Proceedings/11/Papers/254.pdf)
