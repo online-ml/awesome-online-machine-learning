@@ -16,6 +16,7 @@
 ## Software
 
 - [creme](https://github.com/creme-ml/creme/) - A Python library for general purpose online machine learning.
+- [dask](https://ml.dask.org/incremental.html)
 - [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) - A Library for Field-aware Factorization Machines
 - [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) - A Library for Large Linear Classification
 - [LIBOL](https://github.com/LIBOL) - A collection of online linear models trained with first and second order gradient descent methods. Not maintained.
@@ -23,6 +24,7 @@
 - [scikit-learn](https://scikit-learn.org/stable/) - [Some](https://scikit-learn.org/stable/modules/computing.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning.
 - [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) - Doesn't do online learning per say, but instead mini-batches the data into fixed intervals of time.
 - [StreamDM](https://github.com/huawei-noah/streamDM) - A machine learning library on top of Spark Streaming.
+- [VFML](http://www.cs.washington.edu/dm/vfml/)
 - [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
 
 ## Papers
