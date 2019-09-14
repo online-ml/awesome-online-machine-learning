@@ -74,6 +74,12 @@
 
 - [Fast Anomaly Detection for Streaming Data (2011)](https://www.ijcai.org/Proceedings/11/Papers/254.pdf)
 
+### Metric learning
+
+- [Online Metric Learning and Fast Similarity Search (2009)](http://people.bu.edu/bkulis/pubs/nips_online.pdf)
+- [Information-Theoretic Metric Learning (2007)](http://www.cs.utexas.edu/users/pjain/pubs/metriclearning_icml.pdf)
+- [Online and Batch Learning of Pseudo-Metrics (2004)](https://ai.stanford.edu/~ang/papers/icml04-onlinemetric.pdf)
+
 ### Ensemble models
 
 - [Optimal and Adaptive Algorithms for Online Boosting (2015)](http://proceedings.mlr.press/v37/beygelzimer15.pdf) - An implementation is available [here](https://github.com/VowpalWabbit/vowpal_wabbit/blob/master/vowpalwabbit/boosting.cc)
@@ -94,6 +100,6 @@
 
 ### General-purpose algorithms
 
-- [The Sliding DFT (2003)](https://pdfs.semanticscholar.org/525f/b581f9afe17b6ec21d6cb58ed42d1100943f.pdf) - An online variant of the Fourier Transform, a concise explanation is available [here](https://www.comm.utoronto.ca/~dimitris/ece431/slidingdft.pdf)
 - [Maintaining Sliding Window Skylines on Data Streams (2006)](http://www.cs.ust.hk/~dimitris/PAPERS/TKDE06-Sky.pdf)
+- [The Sliding DFT (2003)](https://pdfs.semanticscholar.org/525f/b581f9afe17b6ec21d6cb58ed42d1100943f.pdf) - An online variant of the Fourier Transform, a concise explanation is available [here](https://www.comm.utoronto.ca/~dimitris/ece431/slidingdft.pdf)
 - [Sketching Algorithms for Big Data](https://www.sketchingbigdata.org/)
