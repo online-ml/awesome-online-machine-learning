@@ -32,7 +32,7 @@
 ### Linear models
 
 - [Field-aware Factorization Machines for CTR Prediction (2016)](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf)
-- [Practical Lessons from Predicting Clicks on Ads atFacebook (2014)](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf)
+- [Practical Lessons from Predicting Clicks on Ads at Facebook (2014)](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf)
 - [Ad Click Prediction: a View from the Trenches (2013)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
 - [Normalized online learning (2013)](https://arxiv.org/abs/1305.6646)
 - [Towards Optimal One Pass Large Scale Learning with Averaged Stochastic Gradient Descent (2011)](https://arxiv.org/abs/1107.2490)
