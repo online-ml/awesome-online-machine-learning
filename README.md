@@ -12,6 +12,7 @@
 - [Online Methods in Machine Learning (MIT)](http://www.mit.edu/~rakhlin/6.883/)
 - [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Prediction, Learning, and Games](http://www.ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf)
+- [Introduction to Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf)
 
 ## Software
 
@@ -42,6 +43,7 @@
 - [Confidence-Weighted Linear Classification (2008)](https://www.cs.jhu.edu/~mdredze/publications/icml_variance.pdf)
 - [Exact Convex Confidence-Weighted Learning (2008)](https://www.cs.jhu.edu/~mdredze/publications/cw_nips_08.pdf)
 - [Online Passive-Aggressive Algorithms (2006)](http://jmlr.csail.mit.edu/papers/volume7/crammer06a/crammer06a.pdf)
+- [Logarithmic Regret Algorithms forOnline Convex Optimization (2007)](https://www.cs.princeton.edu/~ehazan/papers/log-journal.pdf)
 - [A Second-Order Perceptron Algorithm (2005)](http://www.datascienceassn.org/sites/default/files/Second-order%20Perception%20Algorithm.pdf)
 - [Online Learning with Kernels (2004)](https://alex.smola.org/papers/2004/KivSmoWil04.pdf)
 - [Solving Large Scale Linear Prediction Problems Using Stochastic Gradient Descent Algorithms (2004)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.58.7377)
