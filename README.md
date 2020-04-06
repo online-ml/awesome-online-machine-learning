@@ -32,6 +32,7 @@
 - [MOA](https://moa.cms.waikato.ac.nz/documentation/)
 - [scikit-learn](https://scikit-learn.org/stable/) - [Some](https://scikit-learn.org/stable/modules/computing.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning. See also the ["Computing with scikit-learn"](https://scikit-learn.org/stable/modules/computing.html) page.
 - [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) - Doesn't do online learning per say, but instead mini-batches the data into fixed intervals of time.
+- [SofiaML](https://code.google.com/archive/p/sofia-ml/)
 - [StreamDM](https://github.com/huawei-noah/streamDM) - A machine learning library on top of Spark Streaming.
 - [Tornado](https://github.com/alipsgh/tornado)
 - [VFML](http://www.cs.washington.edu/dm/vfml/)
@@ -71,6 +72,7 @@
 
 ### Unsupervised learning
 
+- [Online hierarchical clustering approximations (2019)](https://arxiv.org/pdf/1909.09667.pdf)
 - [DeepWalk: Online Learning of Social Representations (2014)](https://arxiv.org/pdf/1403.6652.pdf)
 - [Online Learning with Random Representations (2014)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.127.2742&rep=rep1&type=pdf)
 - [Online Latent Dirichlet Allocation with Infinite Vocabulary (2013)](http://proceedings.mlr.press/v28/zhai13.pdf)
