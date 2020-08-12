@@ -97,6 +97,7 @@
 
 ### Anomaly detection
 
+- [Interpretable Anomaly Detection with Mondrian Pólya Forests on Data Streams (2020)](https://arxiv.org/pdf/2008.01505.pdf)
 - [Fast Anomaly Detection for Streaming Data (2011)](https://www.ijcai.org/Proceedings/11/Papers/254.pdf)
 
 ### Metric learning
