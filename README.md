@@ -64,6 +64,10 @@
 - [A New Approximate Maximal Margin Classification Algorithm (2001)](http://www.jmlr.org/papers/volume2/gentile01a/gentile01a.pdf)
 - [The Relaxed Online Maximum Margin Algorithm (2000)](https://papers.nips.cc/paper/1727-the-relaxed-online-maximum-margin-algorithm.pdf)
 
+### Neural networks
+
+- [Three scenarios for continual learning (2019)](https://arxiv.org/pdf/1904.07734.pdf)
+
 ### Decision trees
 
 - [AMF: Aggregated Mondrian Forests for Online Learning (2019)](https://arxiv.org/abs/1906.10529)
