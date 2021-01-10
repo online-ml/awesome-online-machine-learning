@@ -17,9 +17,10 @@
 
 ## Blog posts
 
-- [What is online machine learning? (2018, Max Pagels)](https://medium.com/value-stream-design/online-machine-learning-515556ff72c5)
+- [Machine learning is going real-time (Chip Huyen, 2020)](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
+- [What is online machine learning? (Max Pagels, 2018)](https://medium.com/value-stream-design/online-machine-learning-515556ff72c5)
 - [Adaptive Real Time Machine Learning (Sundeep Pothula)](https://sundeeppothula1993.github.io/ARTML//blog/Real-time-learning-for-predicting-Customer-Churn/)
-- [What Is It and Who Needs It (2015, Data Science Central)](https://www.datasciencecentral.com/profiles/blogs/stream-processing-what-is-it-and-who-needs-it)
+- [What Is It and Who Needs It (Data Science Central, 2015)](https://www.datasciencecentral.com/profiles/blogs/stream-processing-what-is-it-and-who-needs-it)
 
 ## Software
 
