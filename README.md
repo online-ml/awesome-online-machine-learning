@@ -24,7 +24,7 @@
 
 ## Software
 
-- [creme](https://github.com/creme-ml/creme/) - A Python library for general purpose online machine learning.
+- [River](https://github.com/creme-ml/creme/) - A Python library for general purpose online machine learning.
 - [dask](https://ml.dask.org/incremental.html)
 - [Jubatus](http://jubat.us/en/index.html)
 - [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) - A Library for Field-aware Factorization Machines
