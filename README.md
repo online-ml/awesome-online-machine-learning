@@ -106,6 +106,10 @@
 - [Information-Theoretic Metric Learning (2007)](http://www.cs.utexas.edu/users/pjain/pubs/metriclearning_icml.pdf)
 - [Online and Batch Learning of Pseudo-Metrics (2004)](https://ai.stanford.edu/~ang/papers/icml04-onlinemetric.pdf)
 
+### Graph theory
+
+- [DeepWalk: Online Learning of Social Representations (2014)](http://www.cs.cornell.edu/courses/cs6241/2019sp/readings/Perozzi-2014-DeepWalk.pdf)
+
 ### Ensemble models
 
 - [Optimal and Adaptive Algorithms for Online Boosting (2015)](http://proceedings.mlr.press/v37/beygelzimer15.pdf) - An implementation is available [here](https://github.com/VowpalWabbit/vowpal_wabbit/blob/master/vowpalwabbit/boosting.cc)
