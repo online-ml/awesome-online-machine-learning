@@ -141,3 +141,7 @@
 - [Maintaining Sliding Window Skylines on Data Streams (2006)](http://www.cs.ust.hk/~dimitris/PAPERS/TKDE06-Sky.pdf)
 - [The Sliding DFT (2003)](https://pdfs.semanticscholar.org/525f/b581f9afe17b6ec21d6cb58ed42d1100943f.pdf) - An online variant of the Fourier Transform, a concise explanation is available [here](https://www.comm.utoronto.ca/~dimitris/ece431/slidingdft.pdf)
 - [Sketching Algorithms for Big Data](https://www.sketchingbigdata.org/)
+
+### Hyperparameter tuning
+
+- [ChaCha for Online AutoML (2021)](https://arxiv.org/pdf/2106.04815.pdf)
