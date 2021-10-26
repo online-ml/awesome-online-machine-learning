@@ -7,6 +7,7 @@
 
 ## Courses and books
 
+- [IE 498: Online Learning and Decision Making](https://yuanz.web.illinois.edu/teaching/IE498fa19/)
 - [Introduction to Online Learning](https://parameterfree.com/lecture-notes-on-online-learning/)
 - [Machine Learning the Feature](http://www.hunch.net/~mltf/) - Gives some insights into the inner workings of Vowpal Wabbit, especially the [slides on online linear learning](http://www.hunch.net/~mltf/online_linear.pdf).
 - [Machine learning for data streams with practical examples in MOA](https://www.cms.waikato.ac.nz/~abifet/book/contents.html)
