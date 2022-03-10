@@ -5,11 +5,34 @@
 
 [Online machine learning](https://www.wikiwand.com/en/Online_machine_learning) is a subset of machine learning where data arrives sequentially. In contrast to the more traditional batch learning, online learning methods update themselves incrementally with one data point at a time.
 
+- [Courses and books](#courses-and-books)
+- [Blog posts](#blog-posts)
+- [Software](#software)
+  - [Modelling](#modelling)
+  - [Deployment](#deployment)
+- [Papers](#papers)
+  - [Linear models](#linear-models)
+  - [Support vector machines](#support-vector-machines)
+  - [Neural networks](#neural-networks)
+  - [Decision trees](#decision-trees)
+  - [Unsupervised learning](#unsupervised-learning)
+  - [Time series](#time-series)
+  - [Drift detection](#drift-detection)
+  - [Anomaly detection](#anomaly-detection)
+  - [Metric learning](#metric-learning)
+  - [Graph theory](#graph-theory)
+  - [Ensemble models](#ensemble-models)
+  - [Expert learning](#expert-learning)
+  - [Miscellaneous](#miscellaneous)
+  - [Surveys](#surveys)
+  - [General-purpose algorithms](#general-purpose-algorithms)
+  - [Hyperparameter tuning](#hyperparameter-tuning)
+
 ## Courses and books
 
 - [IE 498: Online Learning and Decision Making](https://yuanz.web.illinois.edu/teaching/IE498fa19/)
 - [Introduction to Online Learning](https://parameterfree.com/lecture-notes-on-online-learning/)
-- [Machine Learning the Feature](http://www.hunch.net/~mltf/) - Gives some insights into the inner workings of Vowpal Wabbit, especially the [slides on online linear learning](http://www.hunch.net/~mltf/online_linear.pdf).
+- [Machine Learning the Feature](http://www.hunch.net/~mltf/) — Gives some insights into the inner workings of Vowpal Wabbit, especially the [slides on online linear learning](http://www.hunch.net/~mltf/online_linear.pdf).
 - [Machine learning for data streams with practical examples in MOA](https://www.cms.waikato.ac.nz/~abifet/book/contents.html)
 - [Online Methods in Machine Learning (MIT)](http://www.mit.edu/~rakhlin/6.883/)
 - [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
@@ -18,27 +41,40 @@
 
 ## Blog posts
 
+- [Anomaly Detection with Bytewax & Redpanda (Bytewax, 2022)](https://www.bytewax.io/blog/anomaly-detection-bw-rpk/)
+- [The online machine learning predict/fit switcheroo (Max Halford, 2022)](https://maxhalford.github.io/blog/predict-fit-switcheroo/)
+- [Real-time machine learning: challenges and solutions (Chip Huyen, 2022)](https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
+- [Anomalies detection using River (Matias Aravena Gamboa, 2021)](https://medium.com/spikelab/anomalies-detection-using-river-398544d3536)
+- [Introdução (não-extensiva) a Online Machine Learning (Saulo Mastelini, 2021)](https://medium.com/@saulomastelini/introdu%C3%A7%C3%A3o-a-online-machine-learning-874bd6b7c3c8)
 - [Machine learning is going real-time (Chip Huyen, 2020)](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
+- [The correct way to evaluate online machine learning models (Max Halford, 2020)](https://maxhalford.github.io/blog/online-learning-evaluation/)
 - [What is online machine learning? (Max Pagels, 2018)](https://medium.com/value-stream-design/online-machine-learning-515556ff72c5)
-- [Adaptive Real Time Machine Learning (Sundeep Pothula)](https://sundeeppothula1993.github.io/ARTML//blog/Real-time-learning-for-predicting-Customer-Churn/)
 - [What Is It and Who Needs It (Data Science Central, 2015)](https://www.datasciencecentral.com/profiles/blogs/stream-processing-what-is-it-and-who-needs-it)
 
 ## Software
 
-- [River](https://github.com/creme-ml/creme/) - A Python library for general purpose online machine learning.
+### Modelling
+
+- [River](https://github.com/creme-ml/creme/) — A Python library for general purpose online machine learning.
 - [dask](https://ml.dask.org/incremental.html)
 - [Jubatus](http://jubat.us/en/index.html)
-- [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) - A Library for Field-aware Factorization Machines
-- [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) - A Library for Large Linear Classification
-- [LIBOL](https://github.com/LIBOL) - A collection of online linear models trained with first and second order gradient descent methods. Not maintained.
+- [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) — A Library for Field-aware Factorization Machines
+- [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) — A Library for Large Linear Classification
+- [LIBOL](https://github.com/LIBOL) — A collection of online linear models trained with first and second order gradient descent methods. Not maintained.
 - [MOA](https://moa.cms.waikato.ac.nz/documentation/)
-- [scikit-learn](https://scikit-learn.org/stable/) - [Some](https://scikit-learn.org/stable/modules/computing.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning. See also the ["Computing with scikit-learn"](https://scikit-learn.org/stable/modules/computing.html) page.
-- [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) - Doesn't do online learning per say, but instead mini-batches the data into fixed intervals of time.
+- [scikit-learn](https://scikit-learn.org/stable/) — [Some](https://scikit-learn.org/stable/modules/computing.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning. See also the ["Computing with scikit-learn"](https://scikit-learn.org/stable/modules/computing.html) page.
+- [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) — Doesn't do online learning per say, but instead mini-batches the data into fixed intervals of time.
 - [SofiaML](https://code.google.com/archive/p/sofia-ml/)
-- [StreamDM](https://github.com/huawei-noah/streamDM) - A machine learning library on top of Spark Streaming.
+- [StreamDM](https://github.com/huawei-noah/streamDM) — A machine learning library on top of Spark Streaming.
 - [Tornado](https://github.com/alipsgh/tornado)
 - [VFML](http://www.cs.washington.edu/dm/vfml/)
 - [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
+
+### Deployment
+
+- [KappaML](https://www.kappaml.com/)
+- [django-river-ml](https://github.com/vsoch/django-river-ml) — a Django plugin for deploying River models
+- [chantilly](https://github.com/online-ml/chantilly) — a prototype meant to be compatible with River (previously River)
 
 ## Papers
 
@@ -99,6 +135,7 @@
 
 ### Anomaly detection
 
+- [Leveraging the Christoffel-Darboux Kernel for Online Outlier Detection (2022)](https://hal.laas.fr/hal-03562614/document)
 - [Interpretable Anomaly Detection with Mondrian Pólya Forests on Data Streams (2020)](https://arxiv.org/pdf/2008.01505.pdf)
 - [Fast Anomaly Detection for Streaming Data (2011)](https://www.ijcai.org/Proceedings/11/Papers/254.pdf)
 
@@ -114,7 +151,7 @@
 
 ### Ensemble models
 
-- [Optimal and Adaptive Algorithms for Online Boosting (2015)](http://proceedings.mlr.press/v37/beygelzimer15.pdf) - An implementation is available [here](https://github.com/VowpalWabbit/vowpal_wabbit/blob/master/vowpalwabbit/boosting.cc)
+- [Optimal and Adaptive Algorithms for Online Boosting (2015)](http://proceedings.mlr.press/v37/beygelzimer15.pdf) — An implementation is available [here](https://github.com/VowpalWabbit/vowpal_wabbit/blob/master/vowpalwabbit/boosting.cc)
 - [Online Bagging and Boosting (2001)](https://ti.arc.nasa.gov/m/profile/oza/files/ozru01a.pdf)
 - [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting (1997)](http://www.face-rec.org/algorithms/Boosting-Ensemble/decision-theoretic_generalization.pdf)
 
@@ -126,7 +163,7 @@
 
 - [Multi-Output Chain Models and their Application in Data Streams (2019)](https://jmread.github.io/talks/2019_03_08-Imperial_Stats_Seminar.pdf)
 - [A Complete Recipe for Stochastic Gradient MCMC (2015)](https://arxiv.org/abs/1506.04696)
-- [Online EM Algorithm for Latent Data Models (2007)](https://arxiv.org/abs/0712.4273) - Source code is available [here](https://www.di.ens.fr/~cappe/Code/OnlineEM/)
+- [Online EM Algorithm for Latent Data Models (2007)](https://arxiv.org/abs/0712.4273) — Source code is available [here](https://www.di.ens.fr/~cappe/Code/OnlineEM/)
 
 ### Surveys
 
@@ -140,7 +177,7 @@
 ### General-purpose algorithms
 
 - [Maintaining Sliding Window Skylines on Data Streams (2006)](http://www.cs.ust.hk/~dimitris/PAPERS/TKDE06-Sky.pdf)
-- [The Sliding DFT (2003)](https://pdfs.semanticscholar.org/525f/b581f9afe17b6ec21d6cb58ed42d1100943f.pdf) - An online variant of the Fourier Transform, a concise explanation is available [here](https://www.comm.utoronto.ca/~dimitris/ece431/slidingdft.pdf)
+- [The Sliding DFT (2003)](https://pdfs.semanticscholar.org/525f/b581f9afe17b6ec21d6cb58ed42d1100943f.pdf) — An online variant of the Fourier Transform, a concise explanation is available [here](https://www.comm.utoronto.ca/~dimitris/ece431/slidingdft.pdf)
 - [Sketching Algorithms for Big Data](https://www.sketchingbigdata.org/)
 
 ### Hyperparameter tuning
