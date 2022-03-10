@@ -74,7 +74,7 @@
 
 - [KappaML](https://www.kappaml.com/)
 - [django-river-ml](https://github.com/vsoch/django-river-ml) — a Django plugin for deploying River models
-- [chantilly](https://github.com/online-ml/chantilly) — a prototype meant to be compatible with River (previously River)
+- [chantilly](https://github.com/online-ml/chantilly) — a prototype meant to be compatible with River (previously Creme)
 
 ## Papers
 
