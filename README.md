@@ -38,6 +38,7 @@
 - [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Prediction, Learning, and Games](http://www.ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf)
 - [Introduction to Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf)
+- [Reinforcement Learning and Stochastic Optimization: A unified framework for sequential decisions](https://castlelab.princeton.edu/RLSO/) — The entire book builds upon Online Learning paradigm in applied learning/optimization problems, *Chapter 3  Online learning* being the reference.
 
 ## Blog posts
 
