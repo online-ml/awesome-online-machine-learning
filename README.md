@@ -63,7 +63,7 @@
 - [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) — A Library for Large Linear Classification
 - [LIBOL](https://github.com/LIBOL) — A collection of online linear models trained with first and second order gradient descent methods. Not maintained.
 - [MOA](https://moa.cms.waikato.ac.nz/documentation/)
-- [scikit-learn](https://scikit-learn.org/stable/) — [Some](https://scikit-learn.org/stable/modules/computing.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning. See also the ["Computing with scikit-learn"](https://scikit-learn.org/stable/modules/computing.html) page.
+- [scikit-learn](https://scikit-learn.org/stable/) — [Some](https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning. See also the ["Computing with scikit-learn"](https://scikit-learn.org/stable/computing.html) page.
 - [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) — Doesn't do online learning per say, but instead mini-batches the data into fixed intervals of time.
 - [SofiaML](https://code.google.com/archive/p/sofia-ml/)
 - [StreamDM](https://github.com/huawei-noah/streamDM) — A machine learning library on top of Spark Streaming.
