@@ -59,6 +59,7 @@
 - [River](https://github.com/creme-ml/creme/) — A Python library for general purpose online machine learning.
 - [dask](https://ml.dask.org/incremental.html)
 - [Jubatus](http://jubat.us/en/index.html)
+- [Flink ML](https://nightlies.apache.org/flink/flink-ml-docs-stable/) - Apache Flink machine learning library
 - [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) — A Library for Field-aware Factorization Machines
 - [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) — A Library for Large Linear Classification
 - [LIBOL](https://github.com/LIBOL) — A collection of online linear models trained with first and second order gradient descent methods. Not maintained.
