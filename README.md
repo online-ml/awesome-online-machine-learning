@@ -169,6 +169,7 @@
 
 ### Surveys
 
+- [Machine learning for streaming data: state of the art, challenges, and opportunities (2019)](https://www.kdd.org/exploration_files/3._CR_7._Machine_learning_for_streaming_data_state_of_the_art-Final.pdf)
 - [Online Learning: A Comprehensive Survey (2018)](https://arxiv.org/abs/1802.02871)
 - [Online Machine Learning in Big Data Streams (2018)](https://arxiv.org/abs/1802.05872v1)
 - [Incremental learning algorithms and applications (2016)](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-19.pdf)
