@@ -116,6 +116,7 @@
 
 ### Unsupervised learning
 
+- [Online Clustering: Algorithms, Evaluation, Metrics, Applications and Benchmarking](https://dl.acm.org/doi/pdf/10.1145/3534678.3542600)
 - [Online hierarchical clustering approximations (2019)](https://arxiv.org/pdf/1909.09667.pdf)
 - [DeepWalk: Online Learning of Social Representations (2014)](https://arxiv.org/pdf/1403.6652.pdf)
 - [Online Learning with Random Representations (2014)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.127.2742&rep=rep1&type=pdf)
