@@ -40,6 +40,7 @@
 - [Prediction, Learning, and Games](http://www.ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf)
 - [Introduction to Online Convex Optimization](https://ocobook.cs.princeton.edu/OCObook.pdf)
 - [Reinforcement Learning and Stochastic Optimization: A unified framework for sequential decisions](https://castlelab.princeton.edu/RLSO/) — The entire book builds upon Online Learning paradigm in applied learning/optimization problems, *Chapter 3  Online learning* being the reference.
+- [Big Data course at the CILVR lab at NYU](https://cilvr.cs.nyu.edu/doku.php?id=courses:bigdata:slides:start) — Focus on linear models and bandits. Some courses are given by John Langford, the creator of Vowpal Wabbit.
 
 ## Blog posts
 
