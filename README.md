@@ -27,6 +27,7 @@
   - [Surveys](#surveys)
   - [General-purpose algorithms](#general-purpose-algorithms)
   - [Hyperparameter tuning](#hyperparameter-tuning)
+  - [Evaluation](#evaluation)
 
 ## Courses and books
 
@@ -190,3 +191,9 @@
 ### Hyperparameter tuning
 
 - [ChaCha for Online AutoML (2021)](https://arxiv.org/pdf/2106.04815.pdf)
+
+### Evaluation
+
+- [Delayed labelling evaluation for data streams (2019)](https://link.springer.com/article/10.1007/s10618-019-00654-y)
+- [Efficient Online Evaluation of Big Data Stream Classifiers (2015)](https://dl.acm.org/doi/pdf/10.1145/2783258.2783372)
+- [Issues in Evaluation of Stream Learning Algorithms (2009)](https://dl.acm.org/doi/pdf/10.1145/1557019.1557060)
