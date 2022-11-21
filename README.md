@@ -45,7 +45,7 @@
 
 ## Blog posts
 
-- [Fennel AI blog posts about online recsys](https://blog.fennel.ai/)
+- [Fennel AI blog posts about online recsys](https://fennel.ai/blog)
 - [Anomaly Detection with Bytewax & Redpanda (Bytewax, 2022)](https://www.bytewax.io/blog/anomaly-detection-bw-rpk/)
 - [The online machine learning predict/fit switcheroo (Max Halford, 2022)](https://maxhalford.github.io/blog/predict-fit-switcheroo/)
 - [Real-time machine learning: challenges and solutions (Chip Huyen, 2022)](https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
