@@ -23,6 +23,7 @@
   - [Graph theory](#graph-theory)
   - [Ensemble models](#ensemble-models)
   - [Expert learning](#expert-learning)
+  - [Active learning](#active-learning)
   - [Miscellaneous](#miscellaneous)
   - [Surveys](#surveys)
   - [General-purpose algorithms](#general-purpose-algorithms)
@@ -165,6 +166,10 @@
 ### Expert learning
 
 - [On the optimality of the Hedge algorithm in the stochastic regime](https://arxiv.org/pdf/1809.01382.pdf)
+
+### Active learning
+
+- [A survey on online active learning (2023)](https://arxiv.org/ftp/arxiv/papers/2302/2302.08893.pdf)
 
 ### Miscellaneous
 
