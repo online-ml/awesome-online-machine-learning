@@ -59,6 +59,8 @@
 
 ## Software
 
+See more [here](https://github.com/stars/MaxHalford/lists/online-learning).
+
 ### Modelling
 
 - [River](https://github.com/creme-ml/creme/) — A Python library for general purpose online machine learning.
