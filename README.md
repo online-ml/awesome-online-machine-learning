@@ -178,6 +178,7 @@ See more [here](https://github.com/stars/MaxHalford/lists/online-learning).
 - [Multi-Output Chain Models and their Application in Data Streams (2019)](https://jmread.github.io/talks/2019_03_08-Imperial_Stats_Seminar.pdf)
 - [A Complete Recipe for Stochastic Gradient MCMC (2015)](https://arxiv.org/abs/1506.04696)
 - [Online EM Algorithm for Latent Data Models (2007)](https://arxiv.org/abs/0712.4273) — Source code is available [here](https://www.di.ens.fr/~cappe/Code/OnlineEM/)
+- [StreamAI: Dealing with Challenges of Continual Learning Systems for Serving AI in Production (2023)](https://ieeexplore.ieee.org/abstract/document/10172871)
 
 ### Surveys
 
