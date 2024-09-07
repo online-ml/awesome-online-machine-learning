@@ -45,6 +45,7 @@
 - [Big Data course at the CILVR lab at NYU](https://cilvr.cs.nyu.edu/doku.php?id=courses:bigdata:slides:start) — Focus on linear models and bandits. Some courses are given by John Langford, the creator of Vowpal Wabbit.
 - [Machine Learning for Personalization](http://www.cs.columbia.edu/~jebara/6998/) — Course from Columbia by Tony Jebara, covers bandits.
 - [An Introduction to Online Learning](http://chercheurs.lille.inria.fr/~lazaric/Webpage/Home/Entries/2012/1/31_Course_on_%22Advanced_topics_of_machine_learning_theory_and_online_learning%22_files/poli-online.pdf)
+- [Streaming Data Analytics](https://github.com/emanueledellavalle/streaming-data-analytics) - Course from Politecnico di Milano.
 
 ## Blog posts
 
