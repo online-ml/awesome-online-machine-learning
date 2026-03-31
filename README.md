@@ -92,6 +92,7 @@ See more [here](https://github.com/stars/MaxHalford/lists/online-learning).
 
 ### Linear models
 
+- [A globally optimal fast iterative linear maximum likelihood classifier (2023)](https://library.imaging.org/ei/articles/35/14/COIMG-172)
 - [Field-aware Factorization Machines for CTR Prediction (2016)](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf)
 - [Practical Lessons from Predicting Clicks on Ads at Facebook (2014)](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf)
 - [Ad Click Prediction: a View from the Trenches (2013)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
