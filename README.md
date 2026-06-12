@@ -84,6 +84,7 @@ See more [here](https://github.com/stars/MaxHalford/lists/online-learning).
 
 ### Deployment
 
+- [Adaptive Reliability Layer](https://github.com/pberlizov/adaptive-reliability-layer) — A bounded controller for production ML under distribution shift; learns from delayed labels and defers unnecessary retrains.
 - [KappaML](https://www.kappaml.com/)
 - [django-river-ml](https://github.com/vsoch/django-river-ml) — a Django plugin for deploying River models
 - [chantilly](https://github.com/online-ml/chantilly) — a prototype meant to be compatible with River (previously Creme)
