@@ -68,6 +68,7 @@ See more [here](https://github.com/stars/MaxHalford/lists/online-learning).
 
 - [River](https://github.com/creme-ml/creme/) — A Python library for general purpose online machine learning.
 - [dask](https://ml.dask.org/incremental.html)
+- [Dense-Armor](https://github.com/tatopenn-cell/Dense-Armor) — A Python library on JAX for online learning on robot, vision and AI streams, with streaming statistics, drift and anomaly detection.
 - [Jubatus](http://jubat.us/en/index.html)
 - [Flink ML](https://nightlies.apache.org/flink/flink-ml-docs-stable/) - Apache Flink machine learning library
 - [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) — A Library for Field-aware Factorization Machines
