@@ -67,6 +67,7 @@ See more [here](https://github.com/stars/MaxHalford/lists/online-learning).
 ### Modelling
 
 - [River](https://github.com/creme-ml/creme/) — A Python library for general purpose online machine learning.
+- [Cadence](https://github.com/muellerberndt/cadence) — A brain-inspired Python library for agents that learn online from a live stream of experience while they act, with no separate training phase, using local plasticity instead of backpropagation. [Paper](https://philpapers.org/rec/MUECAP-2)
 - [dask](https://ml.dask.org/incremental.html)
 - [Jubatus](http://jubat.us/en/index.html)
 - [Flink ML](https://nightlies.apache.org/flink/flink-ml-docs-stable/) - Apache Flink machine learning library
